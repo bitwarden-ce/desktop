@@ -1,5 +1,5 @@
 {
-  "bitwarden": {
+  "bytegarden": {
     "message": "Bitwarden"
   },
   "filters": {
@@ -716,7 +716,7 @@
     "message": "Vaihda pääsalasana"
   },
   "changeMasterPasswordConfirmation": {
-    "message": "Voit vaihtaa pääsalasanasi bitwarden.com-verkkoholvissa. Haluatko käydä sivustolla nyt?"
+    "message": "Voit vaihtaa pääsalasanasi bytegarden.com-verkkoholvissa. Haluatko käydä sivustolla nyt?"
   },
   "fingerprintPhrase": {
     "message": "Sormenjälkilause",
@@ -756,7 +756,7 @@
       },
       "hostname": {
         "content": "$2",
-        "example": "bitwarden.com"
+        "example": "bytegarden.com"
       }
     }
   },
@@ -764,7 +764,7 @@
     "message": "Virheellinen pääsalasana"
   },
   "twoStepLoginConfirmation": {
-    "message": "Kaksivaiheinen kirjautuminen tekee tilistäsi turvallisemman edellyttämällä sinulta kirjautumisvahvistuksen todennuslaitteen, ‑sovelluksen, tekstiviestin, puhelun tai sähköpostin avulla. Voit ottaa kaksivaiheisen kirjautumisen käyttöön bitwarden.com‑verkkoholvissa. Haluatko käydä sivustolla nyt?"
+    "message": "Kaksivaiheinen kirjautuminen tekee tilistäsi turvallisemman edellyttämällä sinulta kirjautumisvahvistuksen todennuslaitteen, ‑sovelluksen, tekstiviestin, puhelun tai sähköpostin avulla. Voit ottaa kaksivaiheisen kirjautumisen käyttöön bytegarden.com‑verkkoholvissa. Haluatko käydä sivustolla nyt?"
   },
   "twoStepLogin": {
     "message": "Kaksivaiheinen kirjautuminen"
@@ -951,7 +951,7 @@
     "message": "Hallitse jäsenyyttä"
   },
   "premiumManageAlert": {
-    "message": "Voit hallita jäsenyyttäsi bitwarden.com-verkkoholvissa. Haluatko käydä sivustolla nyt?"
+    "message": "Voit hallita jäsenyyttäsi bytegarden.com-verkkoholvissa. Haluatko käydä sivustolla nyt?"
   },
   "premiumRefresh": {
     "message": "Päivitä jäsenyys"
@@ -984,7 +984,7 @@
     "message": "Osta premium"
   },
   "premiumPurchaseAlert": {
-    "message": "Voit ostaa premium-jäsenyyden bitwarden.com-verkkoholvissa. Haluatko käydä sivustolla nyt?"
+    "message": "Voit ostaa premium-jäsenyyden bytegarden.com-verkkoholvissa. Haluatko käydä sivustolla nyt?"
   },
   "premiumCurrentMember": {
     "message": "Olet premium-jäsen!"

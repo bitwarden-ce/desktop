@@ -15,7 +15,7 @@ const common = {
             {
                 test: /\.tsx?$/,
                 use: 'ts-loader',
-                exclude: /node_modules\/(?!(@bitwarden)\/).*/,
+                exclude: /node_modules\/(?!(@bytegarden)\/).*/,
             },
         ],
     },

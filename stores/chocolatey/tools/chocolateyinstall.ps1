@@ -1,10 +1,10 @@
 ﻿$ErrorActionPreference = 'Stop';
 
-$url = 'https://github.com/bitwarden/desktop/releases/download/v__version__/Bitwarden-Installer-__version__.exe'
+$url = 'https://github.com/bytegarden/desktop/releases/download/v__version__/Bitwarden-Installer-__version__.exe'
 $checksum = '__checksum__'
 
 $packageArgs = @{
-  packageName   = 'bitwarden'
+  packageName   = 'bytegarden'
   fileType      = 'EXE'
   softwareName  = 'Bitwarden'
   url           = $url

@@ -1,19 +1,19 @@
 {
-  "name": "bitwarden",
+  "name": "bytegarden",
   "productName": "Bitwarden",
   "description": "A secure and free password manager for all of your devices.",
   "version": "0.0.0",
   "keywords": [
-    "bitwarden",
+    "bytegarden",
     "password",
     "vault",
     "password manager"
   ],
-  "author": "8bit Solutions LLC <hello@bitwarden.com> (https://bitwarden.com)",
-  "homepage": "https://bitwarden.com",
+  "author": "ByteGarden contributors",
+  "homepage": "https://gitlab.kokakiwi.net/contrib/bytewarden",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitwarden/desktop"
+    "url": "https://gitlab.kokakiwi.net/contrib/bytewarden"
   },
   "license": "GPL-3.0",
   "scripts": {
@@ -47,11 +47,11 @@
     "dist:win:ci": "npm run build && npm run pack:win:ci",
     "publish:lin": "npm run build && npm run clean:dist && electron-builder --linux --x64 -p always",
     "publish:mac": "npm run build && npm run clean:dist && electron-builder --mac -p always",
-    "publish:win": "npm run build && npm run clean:dist && electron-builder --win --x64 --ia32 -p always -c.win.certificateSubjectName=\"8bit Solutions LLC\""
+    "publish:win": "npm run build && npm run clean:dist && electron-builder --win --x64 --ia32 -p always -c.win.certificateSubjectName=\"ByteGarden contributors\""
   },
   "build": {
-    "appId": "com.bitwarden.desktop",
-    "copyright": "Copyright © 2015-2019 8bit Solutions LLC",
+    "appId": "com.bytegarden.desktop",
+    "copyright": "Copyright © 2015-2019 ByteGarden contributors",
     "directories": {
       "buildResources": "resources",
       "output": "dist",
@@ -167,10 +167,10 @@
     "appx": {
       "artifactName": "${productName}-${version}-${arch}.${ext}",
       "backgroundColor": "#3c8dbc",
-      "applicationId": "bitwardendesktop",
-      "identityName": "8bitSolutionsLLC.bitwardendesktop",
+      "applicationId": "bytegardendesktop",
+      "identityName": "bytegarden.desktop",
       "publisher": "CN=14D52771-DE3C-4886-B8BF-825BA7690418",
-      "publisherDisplayName": "8bit Solutions LLC",
+      "publisherDisplayName": "ByteGarden contributors",
       "languages": [
         "en-US"
       ]

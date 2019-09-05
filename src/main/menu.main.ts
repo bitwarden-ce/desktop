@@ -159,15 +159,15 @@ export class MenuMain extends BaseMenu {
         const helpSubmenu: MenuItemConstructorOptions[] = [
             {
                 label: this.main.i18nService.t('emailUs'),
-                click: () => shell.openExternal('mailTo:hello@bitwarden.com'),
+                click: () => shell.openExternal('mailTo:hello@bytegarden.com'),
             },
             {
                 label: this.main.i18nService.t('visitOurWebsite'),
-                click: () => shell.openExternal('https://bitwarden.com/contact'),
+                click: () => shell.openExternal('https://bytegarden.com/contact'),
             },
             {
                 label: this.main.i18nService.t('fileBugReport'),
-                click: () => shell.openExternal('https://github.com/bitwarden/desktop'),
+                click: () => shell.openExternal('https://github.com/bytegarden/desktop'),
             },
             { type: 'separator' },
             {
@@ -175,15 +175,15 @@ export class MenuMain extends BaseMenu {
                 submenu: [
                     {
                         label: this.main.i18nService.t('blog'),
-                        click: () => shell.openExternal('https://blog.bitwarden.com'),
+                        click: () => shell.openExternal('https://blog.bytegarden.com'),
                     },
                     {
                         label: 'Twitter',
-                        click: () => shell.openExternal('https://twitter.com/bitwarden'),
+                        click: () => shell.openExternal('https://twitter.com/bytegarden'),
                     },
                     {
                         label: 'Facebook',
-                        click: () => shell.openExternal('https://www.facebook.com/bitwarden/'),
+                        click: () => shell.openExternal('https://www.facebook.com/bytegarden/'),
                     },
                     {
                         label: 'Google+',
@@ -191,7 +191,7 @@ export class MenuMain extends BaseMenu {
                     },
                     {
                         label: 'GitHub',
-                        click: () => shell.openExternal('https://github.com/bitwarden'),
+                        click: () => shell.openExternal('https://github.com/bytegarden'),
                     },
                 ],
             },
@@ -210,14 +210,14 @@ export class MenuMain extends BaseMenu {
                         label: 'iOS',
                         click: () => {
                             shell.openExternal('https://itunes.apple.com/app/' +
-                                'bitwarden-free-password-manager/id1137397744?mt=8');
+                                'bytegarden-free-password-manager/id1137397744?mt=8');
                         },
                     },
                     {
                         label: 'Android',
                         click: () => {
                             shell.openExternal('https://play.google.com/store/apps/' +
-                                'details?id=com.x8bit.bitwarden');
+                                'details?id=com.x8bit.bytegarden');
                         },
                     },
                 ],
@@ -229,35 +229,35 @@ export class MenuMain extends BaseMenu {
                         label: 'Chrome',
                         click: () => {
                             shell.openExternal('https://chrome.google.com/webstore/detail/' +
-                                'bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb');
+                                'bytegarden-free-password-m/nngceckbapebfimnlniiiahkandclblb');
                         },
                     },
                     {
                         label: 'Firefox',
                         click: () => {
                             shell.openExternal('https://addons.mozilla.org/firefox/addon/' +
-                                'bitwarden-password-manager/');
+                                'bytegarden-password-manager/');
                         },
                     },
                     {
                         label: 'Opera',
                         click: () => {
                             shell.openExternal('https://addons.opera.com/extensions/details/' +
-                                'bitwarden-free-password-manager/');
+                                'bytegarden-free-password-manager/');
                         },
                     },
                     {
                         label: 'Edge',
                         click: () => {
                             shell.openExternal('https://www.microsoft.com/store/p/' +
-                                'bitwarden-free-password-manager/9p6kxl0svnnl');
+                                'bytegarden-free-password-manager/9p6kxl0svnnl');
                         },
                     },
                     {
                         label: 'Safari',
                         click: () => {
                             shell.openExternal('https://safari-extensions.apple.com/details/' +
-                                '?id=com.bitwarden.safari-LTZ2PFU5D6');
+                                '?id=com.bytegarden.safari-LTZ2PFU5D6');
                         },
                     },
                 ],
@@ -459,7 +459,7 @@ export class MenuMain extends BaseMenu {
     }
 
     private async openWebVault() {
-        let webUrl = 'https://vault.bitwarden.com';
+        let webUrl = 'https://vault.bytegarden.com';
         const urlsObj: any = await this.main.storageService.get(ConstantsService.environmentUrlsKey);
         if (urlsObj != null) {
             if (urlsObj.base != null) {

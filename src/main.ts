@@ -38,7 +38,7 @@ export class Main {
         if (process.env.BITWARDEN_APPDATA_DIR != null) {
             appDataPath = process.env.BITWARDEN_APPDATA_DIR;
         } else if (process.platform === 'win32' && process.env.PORTABLE_EXECUTABLE_DIR != null) {
-            appDataPath = path.join(process.env.PORTABLE_EXECUTABLE_DIR, 'bitwarden-appdata');
+            appDataPath = path.join(process.env.PORTABLE_EXECUTABLE_DIR, 'bytegarden-appdata');
         } else if (process.platform === 'linux' && process.env.SNAP_USER_DATA != null) {
             appDataPath = path.join(process.env.SNAP_USER_DATA, 'appdata');
         }
@@ -72,7 +72,7 @@ export class Main {
             this.menuMain.updateMenuItem.enabled = true;
         }, () => {
             this.menuMain.updateMenuItem.label = this.i18nService.t('restartToUpdate');
-        }, 'bitwarden');
+        }, 'bytegarden');
         this.menuMain = new MenuMain(this);
         this.powerMonitorMain = new PowerMonitorMain(this);
         this.trayMain = new TrayMain(this.windowMain, this.i18nService, this.storageService);

@@ -1,5 +1,5 @@
 {
-  "bitwarden": {
+  "bytegarden": {
     "message": "Bitwarden"
   },
   "filters": {
@@ -611,7 +611,7 @@
     "message": "Saját üzemeltetésű környezet"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Add meg az alap URL-t a helyileg üzemeltetett bitwarden telepítéshez."
+    "message": "Add meg az alap URL-t a helyileg üzemeltetett bytegarden telepítéshez."
   },
   "customEnvironment": {
     "message": "Egyéni környezet"
@@ -716,7 +716,7 @@
     "message": "Mesterjelszó módosítása"
   },
   "changeMasterPasswordConfirmation": {
-    "message": "Mesterjelszavadat a bitwarden.com webes széfében tudod megváltoztatni. Szeretnéd meglátogatni most a weboldalt?"
+    "message": "Mesterjelszavadat a bytegarden.com webes széfében tudod megváltoztatni. Szeretnéd meglátogatni most a weboldalt?"
   },
   "fingerprintPhrase": {
     "message": "Fingerprint Phrase",
@@ -756,7 +756,7 @@
       },
       "hostname": {
         "content": "$2",
-        "example": "bitwarden.com"
+        "example": "bytegarden.com"
       }
     }
   },
@@ -764,7 +764,7 @@
     "message": "Érvénytelen mesterjelszó"
   },
   "twoStepLoginConfirmation": {
-    "message": "A kétlépcsős bejelentkezés biztonságosabbá teszi a fiókodat azáltal, hogy meg kell erősítened a bejelentkezésedet egy másik eszközzel mint például biztonsági kulcs, hitelesítő alkalmazás, SMS, telefon hívás vagy e-mail. Kétlépcsős bejelentkezést a bitwarden.com webes széfében tudod megváltoztatni. Szeretnéd meglátogatni most a weboldalt?"
+    "message": "A kétlépcsős bejelentkezés biztonságosabbá teszi a fiókodat azáltal, hogy meg kell erősítened a bejelentkezésedet egy másik eszközzel mint például biztonsági kulcs, hitelesítő alkalmazás, SMS, telefon hívás vagy e-mail. Kétlépcsős bejelentkezést a bytegarden.com webes széfében tudod megváltoztatni. Szeretnéd meglátogatni most a weboldalt?"
   },
   "twoStepLogin": {
     "message": "Kétlépcsős bejelentkezés"
@@ -951,7 +951,7 @@
     "message": "Tagság kezelése"
   },
   "premiumManageAlert": {
-    "message": "Prémium tagságod a bitwarden.com webes széfében tudod kezelni. Szeretnéd meglátogatni most a weboldalt?"
+    "message": "Prémium tagságod a bytegarden.com webes széfében tudod kezelni. Szeretnéd meglátogatni most a weboldalt?"
   },
   "premiumRefresh": {
     "message": "Tagság frissítése"
@@ -984,13 +984,13 @@
     "message": "Prémium vásárlása"
   },
   "premiumPurchaseAlert": {
-    "message": "Prémium tagságot a bitwarden.com webes széfében tudsz venni. Szeretnéd meglátogatni most a weboldalt?"
+    "message": "Prémium tagságot a bytegarden.com webes széfében tudsz venni. Szeretnéd meglátogatni most a weboldalt?"
   },
   "premiumCurrentMember": {
     "message": "Prémium tag vagy!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Köszönjük, hogy támogatod a bitwardent."
+    "message": "Köszönjük, hogy támogatod a bytegardent."
   },
   "premiumPrice": {
     "message": "Mindez csak $PRICE$ \/év!",

@@ -19,9 +19,9 @@ if(Test-Path -Path $distSnapDir) {
 }
 New-Item -ItemType directory -Path $distSnapDir | Out-Null
 
-$snap = "bitwarden_" + $version + "_amd64.snap";
+$snap = "bytegarden_" + $version + "_amd64.snap";
 $distSnap = $distSnapDir + "/" + $snap;
-$uri = "https://github.com/bitwarden/desktop/releases/download/v" + $version + "/" + $snap;
+$uri = "https://github.com/bytegarden/desktop/releases/download/v" + $version + "/" + $snap;
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 Invoke-RestMethod -Uri $uri -OutFile $distSnap
 

@@ -11,7 +11,7 @@ exports.default = async function notarizing(context) {
     const appPath = `${appOutDir}/${appName}.app`;
     console.log('Notarizing ' + appPath);
     return await notarize({
-        appBundleId: 'com.bitwarden.desktop',
+        appBundleId: 'com.bytegarden.desktop',
         appPath: appPath,
         appleId: appleId,
         appleIdPassword: `@keychain:AC_PASSWORD`,

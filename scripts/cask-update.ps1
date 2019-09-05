@@ -14,4 +14,4 @@
 # To run:
 # pwsh ./cask-update.ps1 -version 1.3.0
 
-cask-repair --cask-version $version --blind-submit --fail-on-error bitwarden
+cask-repair --cask-version $version --blind-submit --fail-on-error bytegarden

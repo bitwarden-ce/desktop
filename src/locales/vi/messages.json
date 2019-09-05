@@ -1,5 +1,5 @@
 {
-  "bitwarden": {
+  "bytegarden": {
     "message": "Bitwarden"
   },
   "filters": {
@@ -716,7 +716,7 @@
     "message": "Thay đổi mật khẩu chính"
   },
   "changeMasterPasswordConfirmation": {
-    "message": "Bạn có thể thay đổi mật khẩu chính trong kho bitwarden nền web. Bạn có muốn truy cập trang web bây giờ?"
+    "message": "Bạn có thể thay đổi mật khẩu chính trong kho bytegarden nền web. Bạn có muốn truy cập trang web bây giờ?"
   },
   "fingerprintPhrase": {
     "message": "Fingerprint Phrase",
@@ -727,7 +727,7 @@
     "description": "A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing."
   },
   "goToWebVault": {
-    "message": "Đi đến bitwarden nền Web"
+    "message": "Đi đến bytegarden nền Web"
   },
   "getMobileApp": {
     "message": "Tải ứng dụng điện thoại"
@@ -756,7 +756,7 @@
       },
       "hostname": {
         "content": "$2",
-        "example": "bitwarden.com"
+        "example": "bytegarden.com"
       }
     }
   },
@@ -764,7 +764,7 @@
     "message": "Mật khẩu chính không hợp lệ"
   },
   "twoStepLoginConfirmation": {
-    "message": "Xác thực hai lớp giúp cho tài khoản của bạn an toàn hơn bằng cách yêu cầu bạn xác minh thông tin đăng nhập của bạn bằng một thiết bị khác như khóa bảo mật, ứng dụng xác thực, SMS, cuộc gọi điện thoại hoặc email. Bạn có thể bật xác thực hai lớp trong kho bitwarden nền web. Bạn có muốn ghé thăm trang web bây giờ?"
+    "message": "Xác thực hai lớp giúp cho tài khoản của bạn an toàn hơn bằng cách yêu cầu bạn xác minh thông tin đăng nhập của bạn bằng một thiết bị khác như khóa bảo mật, ứng dụng xác thực, SMS, cuộc gọi điện thoại hoặc email. Bạn có thể bật xác thực hai lớp trong kho bytegarden nền web. Bạn có muốn ghé thăm trang web bây giờ?"
   },
   "twoStepLogin": {
     "message": "Xác thực hai lớp"
@@ -951,7 +951,7 @@
     "message": "Quản lý Thành viên"
   },
   "premiumManageAlert": {
-    "message": "Bạn có thể quản lý các thành viên trong kho bitwarden nền web. Bạn có muốn truy cập trang web bây giờ?"
+    "message": "Bạn có thể quản lý các thành viên trong kho bytegarden nền web. Bạn có muốn truy cập trang web bây giờ?"
   },
   "premiumRefresh": {
     "message": "Làm mới thành viên"
@@ -984,7 +984,7 @@
     "message": "Mua bản Cao Cấp"
   },
   "premiumPurchaseAlert": {
-    "message": "Bạn có thể nâng cấp làm thành viên cao cấp trong kho bitwarden nền web. Bạn có muốn truy cập trang web bây giờ?"
+    "message": "Bạn có thể nâng cấp làm thành viên cao cấp trong kho bytegarden nền web. Bạn có muốn truy cập trang web bây giờ?"
   },
   "premiumCurrentMember": {
     "message": "Bạn là một thành viên cao cấp!"

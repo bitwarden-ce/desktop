@@ -27,7 +27,7 @@ if(Test-Path -Path $pluginsAppex) {
 
 New-Item $distSafariDir -ItemType Directory -ea 0
 cd $distSafariDir
-git clone git@github.com:bitwarden/browser.git
+git clone git@github.com:bytegarden/browser.git
 cd browser
 
 if(-not ([string]::IsNullOrEmpty($version))) {

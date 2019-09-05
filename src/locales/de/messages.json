@@ -1,5 +1,5 @@
 {
-  "bitwarden": {
+  "bytegarden": {
     "message": "Bitwarden"
   },
   "filters": {
@@ -716,7 +716,7 @@
     "message": "Master-Passwort ändern"
   },
   "changeMasterPasswordConfirmation": {
-    "message": "Du kannst dein Master-Passwort im bitwarden.com Web-Tresor ändern. Möchtest du die Seite jetzt öffnen?"
+    "message": "Du kannst dein Master-Passwort im bytegarden.com Web-Tresor ändern. Möchtest du die Seite jetzt öffnen?"
   },
   "fingerprintPhrase": {
     "message": "Prüfschlüssel",
@@ -756,7 +756,7 @@
       },
       "hostname": {
         "content": "$2",
-        "example": "bitwarden.com"
+        "example": "bytegarden.com"
       }
     }
   },
@@ -764,7 +764,7 @@
     "message": "Ungültiges Master-Passwort"
   },
   "twoStepLoginConfirmation": {
-    "message": "Mit Zwei-Faktor Authentifizierung wird dein Account zusätzlich abgesichert, da jede Anmeldung durch einen Sicherheitscode, eine Authentifizierungs-App, SMS, einen Anruf oder eine E-Mail verifiziert werden muss. Zwei-Faktor Authentifizierung kann im bitwarden.com Web-Tresor aktiviert werden. Möchtest du die Seite jetzt öffnen?"
+    "message": "Mit Zwei-Faktor Authentifizierung wird dein Account zusätzlich abgesichert, da jede Anmeldung durch einen Sicherheitscode, eine Authentifizierungs-App, SMS, einen Anruf oder eine E-Mail verifiziert werden muss. Zwei-Faktor Authentifizierung kann im bytegarden.com Web-Tresor aktiviert werden. Möchtest du die Seite jetzt öffnen?"
   },
   "twoStepLogin": {
     "message": "Zwei-Faktor Authentifizierung"
@@ -951,7 +951,7 @@
     "message": "Mitgliedschaft verwalten"
   },
   "premiumManageAlert": {
-    "message": "Du kannst deine Mitgliedschaft im bitwarden.com Webtresor verwalten. Möchtest du die Seite jetzt aufrufen?"
+    "message": "Du kannst deine Mitgliedschaft im bytegarden.com Webtresor verwalten. Möchtest du die Seite jetzt aufrufen?"
   },
   "premiumRefresh": {
     "message": "Mitgliedschaft erneuern"
@@ -984,7 +984,7 @@
     "message": "Premium-Mitgliedschaft kaufen"
   },
   "premiumPurchaseAlert": {
-    "message": "Du kannst deine Premium-Mitgliedschaft im bitwarden.com Web-Tresor kaufen. Möchtest du die Webseite jetzt besuchen?"
+    "message": "Du kannst deine Premium-Mitgliedschaft im bytegarden.com Web-Tresor kaufen. Möchtest du die Webseite jetzt besuchen?"
   },
   "premiumCurrentMember": {
     "message": "Du bist jetzt Premium-Mitglied!"

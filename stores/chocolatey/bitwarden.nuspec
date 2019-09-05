@@ -2,22 +2,22 @@
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>bitwarden</id>
+    <id>bytegarden</id>
     <version>0.0.0</version>
-    <packageSourceUrl>https://github.com/bitwarden/desktop/tree/master/stores/chocolatey</packageSourceUrl>
+    <packageSourceUrl>https://github.com/bytegarden/desktop/tree/master/stores/chocolatey</packageSourceUrl>
     <owners>kspearrin</owners>
     <title>Bitwarden</title>
     <authors>8bit Solutions LLC</authors>
-    <projectUrl>https://bitwarden.com/</projectUrl>
-    <iconUrl>https://cdn.rawgit.com/bitwarden/desktop/51dd1341/resources/icon.png</iconUrl>
+    <projectUrl>https://bytegarden.com/</projectUrl>
+    <iconUrl>https://cdn.rawgit.com/bytegarden/desktop/51dd1341/resources/icon.png</iconUrl>
     <copyright>Copyright © 2015-2019 8bit Solutions LLC</copyright>
-    <projectSourceUrl>https://github.com/bitwarden/desktop/</projectSourceUrl>
-    <docsUrl>https://help.bitwarden.com/</docsUrl>
-    <bugTrackerUrl>https://github.com/bitwarden/desktop/issues</bugTrackerUrl>
-    <releaseNotes>https://github.com/bitwarden/desktop/releases</releaseNotes>
-    <licenseUrl>https://github.com/bitwarden/desktop/blob/master/LICENSE.txt</licenseUrl>
+    <projectSourceUrl>https://github.com/bytegarden/desktop/</projectSourceUrl>
+    <docsUrl>https://help.bytegarden.com/</docsUrl>
+    <bugTrackerUrl>https://github.com/bytegarden/desktop/issues</bugTrackerUrl>
+    <releaseNotes>https://github.com/bytegarden/desktop/releases</releaseNotes>
+    <licenseUrl>https://github.com/bytegarden/desktop/blob/master/LICENSE.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <tags>bitwarden password manager 8bit</tags>
+    <tags>bytegarden password manager 8bit</tags>
     <summary>A secure and free password manager for all of your devices.</summary>
     <description>
       Bitwarden is the easiest and safest way to store all of your logins and passwords while conveniently keeping them synced between all of your devices.

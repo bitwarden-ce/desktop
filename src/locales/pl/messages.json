@@ -1,5 +1,5 @@
 {
-  "bitwarden": {
+  "bytegarden": {
     "message": "Bitwarden"
   },
   "filters": {
@@ -716,7 +716,7 @@
     "message": "Zmień hasło główne"
   },
   "changeMasterPasswordConfirmation": {
-    "message": "Swoje hasło główne możesz zmienić na stronie sejfu bitwarden.com. Czy chcesz teraz przejść do tej strony?"
+    "message": "Swoje hasło główne możesz zmienić na stronie sejfu bytegarden.com. Czy chcesz teraz przejść do tej strony?"
   },
   "fingerprintPhrase": {
     "message": "Unikalny identyfikator konta",
@@ -756,7 +756,7 @@
       },
       "hostname": {
         "content": "$2",
-        "example": "bitwarden.com"
+        "example": "bytegarden.com"
       }
     }
   },
@@ -764,7 +764,7 @@
     "message": "Nieprawidłowe hasło główne"
   },
   "twoStepLoginConfirmation": {
-    "message": "Dwustopniowe logowanie sprawia, że Twoje konto jest bardziej bezpieczne poprzez wymuszenie potwierdzenia logowania z innego urządzenia, takiego jak klucz bezpieczeństwa, aplikacja uwierzytelniająca, SMS, telefon lub e-mail. Dwustopniowe logowanie można włączyć w internetowym sejfie bitwarden.com. Czy chcesz teraz przejść do tej strony?"
+    "message": "Dwustopniowe logowanie sprawia, że Twoje konto jest bardziej bezpieczne poprzez wymuszenie potwierdzenia logowania z innego urządzenia, takiego jak klucz bezpieczeństwa, aplikacja uwierzytelniająca, SMS, telefon lub e-mail. Dwustopniowe logowanie można włączyć w internetowym sejfie bytegarden.com. Czy chcesz teraz przejść do tej strony?"
   },
   "twoStepLogin": {
     "message": "Dwustopniowe logowanie"
@@ -951,7 +951,7 @@
     "message": "Zarządzaj kontem Premium"
   },
   "premiumManageAlert": {
-    "message": "Swoim kontem Premium możesz zarządzać na stronie sejfu bitwarden.com. Czy chcesz teraz otworzyć tą stronę?"
+    "message": "Swoim kontem Premium możesz zarządzać na stronie sejfu bytegarden.com. Czy chcesz teraz otworzyć tą stronę?"
   },
   "premiumRefresh": {
     "message": "Przedłuż konto Premium"
@@ -984,7 +984,7 @@
     "message": "Zamów konto Premium"
   },
   "premiumPurchaseAlert": {
-    "message": "Konto Premium możesz zakupić na stronie sejfu bitwarden.com. Czy chcesz teraz otworzyć tą stronę?"
+    "message": "Konto Premium możesz zakupić na stronie sejfu bytegarden.com. Czy chcesz teraz otworzyć tą stronę?"
   },
   "premiumCurrentMember": {
     "message": "Posiadasz konto Premium!"

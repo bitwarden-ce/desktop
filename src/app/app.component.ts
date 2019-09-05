@@ -171,7 +171,7 @@ export class AppComponent implements OnInit {
                             this.i18nService.t('close'));
                         if (result) {
                             this.platformUtilsService.launchUri(
-                                'https://help.bitwarden.com/article/fingerprint-phrase/');
+                                'https://help.bytegarden.com/article/fingerprint-phrase/');
                         }
                         break;
                     case 'openPasswordHistory':

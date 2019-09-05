@@ -1,5 +1,5 @@
 {
-  "bitwarden": {
+  "bytegarden": {
     "message": "Bitwarden"
   },
   "filters": {
@@ -716,7 +716,7 @@
     "message": "Promjena glavne lozinke"
   },
   "changeMasterPasswordConfirmation": {
-    "message": "Možete promijeniti svoju glavnu lozinku na internetskom trezoru bitwarden.com. Želite li sada posjetiti web stranicu?"
+    "message": "Možete promijeniti svoju glavnu lozinku na internetskom trezoru bytegarden.com. Želite li sada posjetiti web stranicu?"
   },
   "fingerprintPhrase": {
     "message": "Jedinstveni izraz",
@@ -756,7 +756,7 @@
       },
       "hostname": {
         "content": "$2",
-        "example": "bitwarden.com"
+        "example": "bytegarden.com"
       }
     }
   },
@@ -764,7 +764,7 @@
     "message": "Nevažeća glavna lozinka"
   },
   "twoStepLoginConfirmation": {
-    "message": "Prijava u dva koraka čini Vaš račun sigurnijim tako što će zahtijevati da potvrdite prijavu putem drugog uređaja pomoću sigurnosnog koda, aplikacije autentifikatora, SMS porukom, pozivom ili adresom e-pošte. Prijava u dva koraka može se omogućiti na internetskom trezoru bitwarden.com. Želite li sada posjetiti web stranicu?"
+    "message": "Prijava u dva koraka čini Vaš račun sigurnijim tako što će zahtijevati da potvrdite prijavu putem drugog uređaja pomoću sigurnosnog koda, aplikacije autentifikatora, SMS porukom, pozivom ili adresom e-pošte. Prijava u dva koraka može se omogućiti na internetskom trezoru bytegarden.com. Želite li sada posjetiti web stranicu?"
   },
   "twoStepLogin": {
     "message": "Prijava u dva koraka"
@@ -951,7 +951,7 @@
     "message": "Upravljaj članstvom"
   },
   "premiumManageAlert": {
-    "message": "Možete upravljati svojim članstvom na internetskom trezoru bitwarden.com. Želite li sada posjetiti web stranicu?"
+    "message": "Možete upravljati svojim članstvom na internetskom trezoru bytegarden.com. Želite li sada posjetiti web stranicu?"
   },
   "premiumRefresh": {
     "message": "Osvježi članstvo"
@@ -984,7 +984,7 @@
     "message": "Kupi Premium članstvo"
   },
   "premiumPurchaseAlert": {
-    "message": "Možete kupiti premium članstvo na internetskom trezoru bitwarden.com. Želite li sada posjetiti web stranicu?"
+    "message": "Možete kupiti premium članstvo na internetskom trezoru bytegarden.com. Želite li sada posjetiti web stranicu?"
   },
   "premiumCurrentMember": {
     "message": "Vi ste premium član!"

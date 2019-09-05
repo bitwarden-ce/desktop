@@ -1,5 +1,5 @@
 {
-  "bitwarden": {
+  "bytegarden": {
     "message": "Bitwarden"
   },
   "filters": {
@@ -611,7 +611,7 @@
     "message": "自我托管环境"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "指定自己配置、托管的 bitwarden 环境的基础 URL。"
+    "message": "指定自己配置、托管的 bytegarden 环境的基础 URL。"
   },
   "customEnvironment": {
     "message": "自定义环境"
@@ -716,7 +716,7 @@
     "message": "修改主密码"
   },
   "changeMasterPasswordConfirmation": {
-    "message": "您可以在 bitwarden.com 网页版修改您的主密码。现在为您跳转吗？"
+    "message": "您可以在 bytegarden.com 网页版修改您的主密码。现在为您跳转吗？"
   },
   "fingerprintPhrase": {
     "message": "指纹短语",
@@ -756,7 +756,7 @@
       },
       "hostname": {
         "content": "$2",
-        "example": "bitwarden.com"
+        "example": "bytegarden.com"
       }
     }
   },
@@ -764,7 +764,7 @@
     "message": "无效的主密码"
   },
   "twoStepLoginConfirmation": {
-    "message": "两步登录使您在登录时需要输入一个从认证应用获取的安全码，这能使您的账户更加安全。两步登录可以在 bitwarden.com 网页版启用。现在要访问吗？"
+    "message": "两步登录使您在登录时需要输入一个从认证应用获取的安全码，这能使您的账户更加安全。两步登录可以在 bytegarden.com 网页版启用。现在要访问吗？"
   },
   "twoStepLogin": {
     "message": "两步登录"
@@ -951,7 +951,7 @@
     "message": "管理会员资格"
   },
   "premiumManageAlert": {
-    "message": "您可以在 bitwarden.com 网页版管理您的会员资格。现在要访问吗？"
+    "message": "您可以在 bytegarden.com 网页版管理您的会员资格。现在要访问吗？"
   },
   "premiumRefresh": {
     "message": "刷新会员资格"
@@ -984,7 +984,7 @@
     "message": "购买高级版"
   },
   "premiumPurchaseAlert": {
-    "message": "您可以在 bitwarden.com 网页版购买高级会员。现在要访问吗？"
+    "message": "您可以在 bytegarden.com 网页版购买高级会员。现在要访问吗？"
   },
   "premiumCurrentMember": {
     "message": "您是一名高级会员！"

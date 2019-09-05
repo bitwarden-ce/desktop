@@ -1,5 +1,5 @@
 {
-  "bitwarden": {
+  "bytegarden": {
     "message": "Bitwarden"
   },
   "filters": {
@@ -716,7 +716,7 @@
     "message": "Modifier le mot de passe maître"
   },
   "changeMasterPasswordConfirmation": {
-    "message": "Vous pouvez modifier votre mot de passe maître depuis le coffre web sur bitwarden.com. Souhaitez-vous visiter le site maintenant ?"
+    "message": "Vous pouvez modifier votre mot de passe maître depuis le coffre web sur bytegarden.com. Souhaitez-vous visiter le site maintenant ?"
   },
   "fingerprintPhrase": {
     "message": "Phrase d'empreinte",
@@ -756,7 +756,7 @@
       },
       "hostname": {
         "content": "$2",
-        "example": "bitwarden.com"
+        "example": "bytegarden.com"
       }
     }
   },
@@ -764,7 +764,7 @@
     "message": "Mot de passe maître invalide"
   },
   "twoStepLoginConfirmation": {
-    "message": "L'identification en deux étapes sécurise plus encore votre compte en vous demandant à chaque identification la saisie d'un code de sécurité obtenu depuis un autre appareil, comme une clef de sécurité, une application d'authentification, un SMS, un appel téléphonique ou encore un courriel. L'identification en deux étapes peut être activée dans le coffre web sur bitwarden.com. Voulez-vous vous rendre sur le site web maintenant ?"
+    "message": "L'identification en deux étapes sécurise plus encore votre compte en vous demandant à chaque identification la saisie d'un code de sécurité obtenu depuis un autre appareil, comme une clef de sécurité, une application d'authentification, un SMS, un appel téléphonique ou encore un courriel. L'identification en deux étapes peut être activée dans le coffre web sur bytegarden.com. Voulez-vous vous rendre sur le site web maintenant ?"
   },
   "twoStepLogin": {
     "message": "Identification en deux étapes"
@@ -951,7 +951,7 @@
     "message": "Gérer l'adhésion"
   },
   "premiumManageAlert": {
-    "message": "Vous pouvez gérer votre adhésion depuis le coffre web sur bitwarden.com. Souhaitez-vous consulter le site web maintenant ?"
+    "message": "Vous pouvez gérer votre adhésion depuis le coffre web sur bytegarden.com. Souhaitez-vous consulter le site web maintenant ?"
   },
   "premiumRefresh": {
     "message": "Actualiser l'adhésion"
@@ -984,7 +984,7 @@
     "message": "Acheter Premium"
   },
   "premiumPurchaseAlert": {
-    "message": "Vous pouvez opter pour une adhésion premium depuis le coffre web sur bitwarden.com. Souhaitez-vous consulter le site web maintenant ?"
+    "message": "Vous pouvez opter pour une adhésion premium depuis le coffre web sur bytegarden.com. Souhaitez-vous consulter le site web maintenant ?"
   },
   "premiumCurrentMember": {
     "message": "Vous êtes un adhérent premium !"

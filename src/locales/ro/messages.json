@@ -1,5 +1,5 @@
 {
-  "bitwarden": {
+  "bytegarden": {
     "message": "Bitwarden"
   },
   "filters": {
@@ -611,7 +611,7 @@
     "message": "Mediu de găzduire personal"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Specificați URL-ul implementări locale, personale a bitwarden."
+    "message": "Specificați URL-ul implementări locale, personale a bytegarden."
   },
   "customEnvironment": {
     "message": "Mediu personalizat"
@@ -638,7 +638,7 @@
     "message": "URL server de pictograme"
   },
   "environmentSaved": {
-    "message": "URL-urile mediului bitwarden au fost salvate."
+    "message": "URL-urile mediului bytegarden au fost salvate."
   },
   "ok": {
     "message": "Ok"
@@ -716,7 +716,7 @@
     "message": "Schimbare parolă principală"
   },
   "changeMasterPasswordConfirmation": {
-    "message": "Puteţi modifica parola principală pe site-ul web bitwarden.com. Doriţi să vizitaţi site-ul acum?"
+    "message": "Puteţi modifica parola principală pe site-ul web bytegarden.com. Doriţi să vizitaţi site-ul acum?"
   },
   "fingerprintPhrase": {
     "message": "Fingerprint Phrase",
@@ -756,7 +756,7 @@
       },
       "hostname": {
         "content": "$2",
-        "example": "bitwarden.com"
+        "example": "bytegarden.com"
       }
     }
   },
@@ -764,7 +764,7 @@
     "message": "Parola principală este incorectă"
   },
   "twoStepLoginConfirmation": {
-    "message": "Autentificarea în două etape face ca contul dvs. să fie mai sigur, solicitând să introduceți un cod de securitate dintr-o aplicație de autentificare ori de câte ori vă conectați. Autentificarea în două etape poate fi activată în seiful web bitwarden.com. Doriți să vizitați site-ul acum?"
+    "message": "Autentificarea în două etape face ca contul dvs. să fie mai sigur, solicitând să introduceți un cod de securitate dintr-o aplicație de autentificare ori de câte ori vă conectați. Autentificarea în două etape poate fi activată în seiful web bytegarden.com. Doriți să vizitați site-ul acum?"
   },
   "twoStepLogin": {
     "message": "Autentificare în două etape"
@@ -951,7 +951,7 @@
     "message": "Administrare abonament"
   },
   "premiumManageAlert": {
-    "message": "Puteţi gestiona apartenenţa pe site-ul web bitwarden.com. Doriţi să vizitaţi site-ul acum?"
+    "message": "Puteţi gestiona apartenenţa pe site-ul web bytegarden.com. Doriţi să vizitaţi site-ul acum?"
   },
   "premiumRefresh": {
     "message": "Reîmprospătare apartenență"
@@ -984,13 +984,13 @@
     "message": "Procuraţi un abonament premium"
   },
   "premiumPurchaseAlert": {
-    "message": "Puteţi procura un abonament premium pe site-ul web bitwarden.com. Doriţi să vizitaţi site-ul acum?"
+    "message": "Puteţi procura un abonament premium pe site-ul web bytegarden.com. Doriţi să vizitaţi site-ul acum?"
   },
   "premiumCurrentMember": {
     "message": "Sunteţi un membru premium!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Vă mulţumim pentru susţinerea bitwarden."
+    "message": "Vă mulţumim pentru susţinerea bytegarden."
   },
   "premiumPrice": {
     "message": "Totul pentru doar $PRICE$ \/an!",
